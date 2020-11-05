@@ -1,0 +1,208 @@
+Uri: https://tosbaware.net/
+File Name: c:\Downloaded Web Sites\tosbaware.net\index.htm
+Content Type: text/html
+
+Uri: https://tosbaware.net/assets/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tosbaware.net/assets/css/font-awesome.css
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://tosbaware.net/assets/css/templatemo-softy-pinko.css
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\css\templatemo-softy-pinko.css
+Content Type: text/css
+
+Uri: https://tosbaware.net/pages/ExternalNedir.html
+File Name: c:\Downloaded Web Sites\tosbaware.net\pages\ExternalNedir.html
+Content Type: text/html
+
+Uri: https://tosbaware.net/pages/NedenBanYemez.html
+File Name: c:\Downloaded Web Sites\tosbaware.net\pages\NedenBanYemez.html
+Content Type: text/html
+
+Uri: https://tosbaware.net/pages/Sponsor.html
+File Name: c:\Downloaded Web Sites\tosbaware.net\pages\Sponsor.html
+Content Type: text/html
+
+Uri: https://tosbaware.net/assets/images/logo2.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\logo2.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/featured-item-01.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\featured-item-01.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/featured-item-02.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\featured-item-02.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/featured-item-03.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\featured-item-03.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/left-image.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\left-image.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/right-image.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\right-image.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/target.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\target.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/tigger.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\tigger.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/wall.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\wall.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/bunney.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\bunney.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/kk.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\kk.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/build.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\build.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/testimonial-icon.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\testimonial-icon.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/profil/G0DW4RS.jpg
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\profil\G0DW4RS.jpg
+Content Type: image/jpeg
+
+Uri: https://tosbaware.net/assets/images/profil/swarthy.jpg
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\profil\swarthy.jpg
+Content Type: image/jpeg
+
+Uri: https://tosbaware.net/assets/images/profil/Zaqrol.jpg
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\profil\Zaqrol.jpg
+Content Type: image/jpeg
+
+Uri: https://tosbaware.net/assets/images/external500.jpg
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\external500.jpg
+Content Type: image/jpeg
+
+Uri: https://tosbaware.net/assets/images/novac.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\novac.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/sposnor500.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\sposnor500.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/js/jquery-2.1.0.min.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\jquery-2.1.0.min.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/assets/js/popper.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\popper.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/assets/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/assets/js/scrollreveal.min.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/assets/js/waypoints.min.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/assets/js/jquery.counterup.min.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/assets/js/imgfix.min.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\imgfix.min.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/assets/js/custom.js
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://tosbaware.net/favicon.ico
+File Name: c:\Downloaded Web Sites\tosbaware.net\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://tosbaware.net/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tosbaware.net/assets/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tosbaware.net/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://tosbaware.net/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://tosbaware.net/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://tosbaware.net/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://tosbaware.net/assets/images/banner-bg.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\banner-bg.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/work-process-bg.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\work-process-bg.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/fun-facts-bg.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\fun-facts-bg.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/circle-dec.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\circle-dec.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/index.html
+File Name: c:\Downloaded Web Sites\tosbaware.net\index.html
+Content Type: text/html
+
+Uri: https://tosbaware.net/pages/405.html
+File Name: c:\Downloaded Web Sites\tosbaware.net\pages\405.html
+Content Type: text/html
+
+Uri: https://tosbaware.net/assets/images/external.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\external.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/logo/avatar.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\logo\avatar.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/novac.jpg
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\novac.jpg
+Content Type: image/jpeg
+
+Uri: https://tosbaware.net/assets/images/lighttosba.png
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\lighttosba.png
+Content Type: image/png
+
+Uri: https://tosbaware.net/assets/images/sponsor.jpg
+File Name: c:\Downloaded Web Sites\tosbaware.net\assets\images\sponsor.jpg
+Content Type: image/jpeg
+
